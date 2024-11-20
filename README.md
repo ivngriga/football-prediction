@@ -2,7 +2,7 @@
 
 ### Disclaimer
 
-This code was written by 16 year old me. It is more than likely that there are errors in my logic and mistakes were made. Treat results with a grain of salt.
+This experiment was done by a much younger me. There may be some errors in the analysis and logic of my scripts.
 
 ### Purpose
 
